@@ -1,0 +1,2 @@
+# openedg_python_Essentials_1
+Code written while learning openedg_python_Essentials_1
